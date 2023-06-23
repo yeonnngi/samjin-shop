@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yeonnngi/samjin-shop/static/css/main.30ea52ad.css",
+    "main.js": "/yeonnngi/samjin-shop/static/js/main.83e8859a.js",
+    "static/js/787.8723b9db.chunk.js": "/yeonnngi/samjin-shop/static/js/787.8723b9db.chunk.js",
+    "index.html": "/yeonnngi/samjin-shop/index.html",
+    "main.30ea52ad.css.map": "/yeonnngi/samjin-shop/static/css/main.30ea52ad.css.map",
+    "main.83e8859a.js.map": "/yeonnngi/samjin-shop/static/js/main.83e8859a.js.map",
+    "787.8723b9db.chunk.js.map": "/yeonnngi/samjin-shop/static/js/787.8723b9db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.83e8859a.js"
+  ]
+}
